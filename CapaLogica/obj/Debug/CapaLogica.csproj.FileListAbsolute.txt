@@ -1,0 +1,9 @@
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Irving\source\repos\practica2pwa\CapaLogica\obj\Debug\CapaLogica.pdb
